@@ -57,7 +57,7 @@ Non-institutionalized sampling frame; HFpEF approximated by self-reported conges
 
 ## Citation
 
-> [Author list]. Half of Medicare Beneficiaries Eligible for the GLP-1 Bridge Program Are Invisible to Claims Data. *Diabetes Care* (under review), 2026.
+>Huang H, Chen S, Liu Y. Half of Medicare Beneficiaries Eligible for the GLP-1 Bridge Program Are Invisible to Claims Data. *Diabetes Care* (under review), 2026.
 
 ## License
 
